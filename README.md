@@ -74,7 +74,7 @@ curl -sSL https://github.com/metersphere/metersphere/releases/latest/download/qu
 MeterSphere 版本号命名规则为：v大版本.功能版本.Bug修复版本。比如：
 
 ```text
-v1.0.1 是 v1.0.0 之后的Bug修复版本；
+v1.0.1 是 v1.0.0 之后的Bug修复版本1；
 v1.1.0 是 v1.0.0 之后的功能版本。
 ```
 
